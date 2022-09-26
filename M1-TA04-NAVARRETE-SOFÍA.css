@@ -1,0 +1,254 @@
+body {background-color: #B8DBD9;
+margin: 0;
+padding: 0;}
+
+.cajauno {width: 100%;
+height: 440px;
+background-color: #2F4550;
+padding: 5px;
+}
+
+.title {margin-left: 50px;
+width: 1000px;}
+
+.title .titulo {font-family: 'Khula', sans-serif;
+font-size: 50px;
+color: white;
+margin-top: 30px;}
+
+.avion {height: 200px;
+margin-left: 1100px;
+position: absolute;
+margin-top: 110px}
+
+.buscar {
+	position: absolute;
+padding: 5px;
+margin-left: 1170px;
+margin-top: 20px;}
+
+.buscar input {width: 200px;
+height: 30px;
+padding: 0 20px;
+font-size: 18px;
+color: #2F4550;
+outline: none;
+border border-radius: 30px;}
+
+
+.subtitle {margin-left: 50px;
+width: 1000px;}
+
+
+.subtitle .subtitulo {font-family: 'Khula', sans-serif;
+font-size:large;
+color: white;}
+
+.title .titulo {font-family: 'Khula', sans-serif;
+font-size: Xx-large;
+color: white;}
+
+.fondouno {width: 500px;
+	height: 300px;
+	background-color: #F4F4F9;
+	margin-left: 50px;
+	float: left;
+	}
+
+.texto {margin-left: 50px;
+	font-family: 'Khula', sans-serif;
+font-size: xx-large;
+color: white;
+} 
+
+#chile {background-color: black;}
+
+.azul{ width: 150px;
+	height: 150px;
+	background-color: blue;
+	position: absolute; } 
+
+.blanco { width: 350px; 
+	height: 150px;
+	background-color: white;
+	margin-left: 150px;}
+
+.rojo {width: 500px;
+height: 150px;
+background-color: red;}
+
+.simb {height: 100px;
+	width: 100px;
+	position: absolute;
+	margin-left: 25px;
+	margin-top: 25px;}
+
+.box {margin-left: 600px;
+width: 700px;
+height: 280px;
+background-color:white;
+padding: 10px;}
+
+.bla {font-family:'Khula',sans-serif;
+font-size: large;
+color: #2F4550;}
+
+.fondodos {width: 500px;
+	height: 300px;
+	background-color: #F4F4F9;
+	margin-left: 50px;
+	float: left;
+	}
+
+.text {margin-left: 50px;
+	font-family: 'Khula', sans-serif;
+font-size: xx-large;
+color: white;
+} 
+
+#grecia {background-color: black;}
+
+.cuadrado { width: 150px;
+	height: 150px;
+	background-color: royalblue;
+	position: absolute;
+	}
+
+.cruzh {width: 30px;
+	height: 150px;
+	background-color: white;
+position: absolute;
+margin-left: 60px;}
+
+.cruzv {width: 150px;
+	height: 30px;
+	background-color: white;
+position: absolute;
+margin-top: 60px;}
+
+.uno {width: 350px;
+	height: 30px;
+	background-color: royalblue;
+	margin-left: 150px;}
+
+.dos {width: 350px;
+	height: 30px;
+	background-color: white;
+	margin-left: 150px;}
+
+.tres {width: 350px;
+	height: 30px;
+	background-color: royalblue;
+	margin-left: 150px;}
+
+.cuatro {width: 350px;
+	height: 30px;
+	background-color: white;
+	margin-left: 150px;}
+
+.cinco {width: 350px;
+	height: 30px;
+	background-color: royalblue;
+	margin-left: 150px;}
+
+
+.seis {width: 500px;
+	height: 37px;
+	background-color: white;
+	}
+
+.siete {width: 500px;
+	height: 37px;
+	background-color: royalblue;
+	}
+
+.ocho {width: 500px;
+	height: 37px;
+	background-color: white;
+	}
+
+.nueve {width: 500px;
+	height: 39px;
+	background-color: royalblue;
+	}
+
+.fondotres {width: 500px;
+	height: 300px;
+	background-color: #F4F4F9;
+	margin-left: 50px;
+	float: left;
+	margin-bottom: 50px;
+	}
+.txt {margin-left: 50px;
+	font-family: 'Khula', sans-serif;
+font-size: xx-large;
+color: white;
+} 
+
+#pr {background-color: black;}
+
+
+.triangulo {
+	border-top: 150px solid transparent;
+	border-bottom: 150px solid transparent;
+	border-left: 300px solid blue;
+	position: absolute;
+}
+
+.puerto {height: 100px;
+	width: 100px;
+	margin-left: 40px;
+	margin-top: 90px;
+	position: absolute;
+	
+}
+
+.one {width: 500px;
+	height: 60px;
+	background-color: red;
+	}
+
+.two {width: 500px;
+	height: 60px;
+	background-color: white;
+	}
+
+.three {width: 500px;
+	height: 60px;
+	background-color: red;
+	}
+
+.four {width: 500px;
+	height: 60px;
+	background-color: white;
+	}
+
+.five {width: 500px;
+	height: 60px;
+	background-color: red;
+	}
+
+.caja {margin-left: 600px;
+width: 700px;
+height: 280px;
+background-color:white;
+padding: 10px;
+position: absolute;}
+
+.ble {font-family:'Khula',sans-serif;
+font-size: large;
+color: #2F4550;}
+
+.creditos {width: 500px;
+height: 100px;
+margin-top: 50px;
+padding: 50px;
+}
+
+.creditos .blu {font-family: 'Khula', sans-serif;
+color: white;
+}
+
+--! Los codigos para el buscador los saque de aquí https://www.youtube.com/watch?v=z8qCK-fFQvc&t=163s 
+	Para el triángulo ocupé https://www.youtube.com/watch?v=b36VYWhdjoc y con lógica vi como hacerlo invertido
+--
